@@ -1,0 +1,43 @@
+{
+   "DBS Live Fresh Student Card":{
+      "benefits":"0.3% cashback on everything",
+      "annual_fee_&_waiver":"$192.60 (waived for 5 years)",
+      "credit_limit":"$500",
+      "eligibility":{
+         "min_age":"18",
+         "max_age":"27",
+         "citizenship":"Singapore Citizen,Singapore PR"
+      },
+      "min_income":{
+         "student":"",
+         "adult":""
+      }
+   },
+   "Maybank eVibes Card":{
+      "benefits":"1% cashback on everything. Sign up gift of Adidas watch",
+      "annual_fee_&_waiver":"$5 quarterly (waived for 2 years)",
+      "credit_limit":"$500",
+      "eligibility":{
+         "min_age":"18",
+         "max_age":"30",
+         "citizenship":"Singapore Citizen,Singapore PR"
+      },
+      "min_income":{
+         "student":"",
+         "adult":""
+      }
+   },
+   "CIMB AWSM Card":{
+      "benefits":"1% cashback on dining, entertainment, online shopping, telco bills",
+      "credit_limit":"$500",
+      "eligibility":{
+         "min_age":"18",
+         "max_age":"29",
+         "citizenship":"Singapore Citizen,Singapore PR"
+      },
+      "min_income":{
+         "student":"",
+         "adult":"1500"
+      }
+   }
+}

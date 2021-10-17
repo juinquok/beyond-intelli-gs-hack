@@ -1,0 +1,8 @@
+Animations:
+Framer Motion: https://www.framer.com/docs/introduction/
+
+CSS Framework:
+Chakra UI: https://chakra-ui.com/docs/features/style-props
+
+Form handling:
+React Hook Form: https://react-hook-form.com/api
